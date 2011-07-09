@@ -1,0 +1,15 @@
+ <!DOCTYPE Menu PUBLIC "-//freedesktop//DTD Menu 1.0//EN"
+          "http://www.freedesktop.org/standards/menu-spec/menu-1.0.dtd">
+            <Menu>
+              <Name>Favorites</Name>
+  <DefaultAppDirs/>
+  <DefaultDirectoryDirs/>
+              <Include>
+                <Filename>nautilus.desktop</Filename>
+                <Filename>yelp.desktop</Filename>
+                <Filename>gnome-sound-recorder.desktop</Filename>
+                <Filename>gnome-calculator.desktop</Filename>
+                <Filename>simple-scan.desktop</Filename>
+                <Filename>gnome-sudoku.desktop</Filename>
+              </Include>
+            </Menu>
