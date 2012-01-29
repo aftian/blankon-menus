@@ -1,0 +1,17 @@
+Source: blankon-menus
+Section: desktop
+Priority: optional
+Maintainer: BlankOn Developers <blankon-dev@googlegroups.com> 
+Build-Depends: debhelper (>= 8)
+Standards-Version: 3.9.2
+Vcs-Browser: https://github.com/aftian/blankon-menus
+Vcs-Git: git://github.com/aftian/blankon-menus.git
+
+Package: blankon-menus
+Architecture: all
+Depends: ${misc:Depends}, gnome-menus, blankon-panel
+Description: BlankOn Menus for BlankOn Panel 
+ BlankOn Menus for BlankOn Panel
+ on Debian Live systems.
+ .
+ This package contains the BlankOn specific scripts.
